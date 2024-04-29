@@ -11,7 +11,9 @@ A departmental (or Group) organization:
 > Physics: [uow-physics](https://github.com/uow-physics)
 >>
 >> Plasma: [warwick-plasma](https://github.com/Warwick-Plasma)
+>>
 >> Astronomy: [WarwickAstro](https://github.com/WarwickAstro)
+>>
 >> Diamond EPR: [WarwickEPR](https://github.com/WarwickEPR)
 >
 > Statistics: [uow-statistics](https://github.com/uow-statistics)
@@ -19,7 +21,9 @@ A departmental (or Group) organization:
 > Computer Science:
 >>
 >> AI: [WarwickAI](https://github.com/WarwickAI)
+>>
 >> Social Network Analysis: [warwicksna](https://github.com/warwicksna)
+>
 > Sensors Lab: [Warwick-Sensors-Lab](https://github.com/Warwick-Sensors-Lab)
 >
 > OSS Lab: [OSS-Lab](https://github.com/OSS-Lab)
