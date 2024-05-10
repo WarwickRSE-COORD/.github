@@ -29,3 +29,5 @@ A departmental (or Group) organization:
 > OSS Lab: [OSS-Lab](https://github.com/OSS-Lab)
 >
 > Microscopy: [WarwickMicroscopy](https://github.com/WarwickMicroscopy)
+>
+> Centre for Interdisciplinary Methodologies : [RSEs at CIM](https://warwick.ac.uk/fac/cross_fac/cim/research-software-engineering/)
