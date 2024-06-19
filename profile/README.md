@@ -16,7 +16,7 @@ A departmental (or Group) organization:
 >>
 >> Diamond EPR: [WarwickEPR](https://github.com/WarwickEPR)
 >
-> Statistics: [uow-statistics](https://github.com/uow-statistics)
+> Statistics: [Warwick-Stats-Resources](https://github.com/Warwick-Stats-Resources)
 >
 > Computer Science:
 >>
