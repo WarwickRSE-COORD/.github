@@ -29,3 +29,5 @@ A departmental (or Group) organization:
 > OSS Lab: [OSS-Lab](https://github.com/OSS-Lab)
 >
 > Microscopy: [WarwickMicroscopy](https://github.com/WarwickMicroscopy)
+>
+> WMS: [CAMDU](https://github.com/warwickcamdu)
